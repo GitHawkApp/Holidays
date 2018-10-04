@@ -1,41 +1,43 @@
 {
   "2018": {
-    "11": {
-      "22": {
-        "emoji": "🦃",
-        "message": "Thank you!"
-      }
-    },
-    "2": {
-      "16": {
-        "emoji": "🐕",
-        "message": "新年好 / 新年好"
-      }
-    },
-    "5": {
-      "12": {
-        "emoji": "👩",
-        "message": "Thanks, Mom!"
-      }
-    },
-    "6": {
-      "16": {
-        "emoji": "👨",
-        "message": "Thanks, Dad!"
+    "10": {
+      "28": {
+        "emoji": "❄️",
+        "message": "Horário de Inverno"
       }
     }
   },
   "2019": {
-    "11": {
-      "28": {
-        "emoji": "🦃",
-        "message": "Thank you!"
+    "3": {
+      "5": {
+        "emoji": "🎭",
+        "message": "Feliz Carnaval!"
+      },
+      "31": {
+        "emoji": "☀️",
+        "message": "Horário de Verão"
       }
     },
-    "2": {
-      "5": {
-        "emoji": "🐷",
-        "message": "新年好 / 新年好"
+    "4": {
+      "19": {
+        "emoji": "⛪️",
+        "message": "Sexta-feira Santa"
+      },
+      "21": {
+        "emoji": "⛪️",
+        "message": "Feliz Páscoa!"
+      }
+    },
+    "6": {
+      "19": {
+        "emoji": "⛪️",
+        "message": "Corpo de Deus"
+      }
+    },
+    "10": {
+      "28": {
+        "emoji": "❄️",
+        "message": "Horário de Inverno"
       }
     }
   },
@@ -43,47 +45,89 @@
     "1": {
       "1": {
         "emoji": "🎆",
-        "message": "Happy New Year!"
-      }
-    },
-    "10": {
-      "31": {
-        "emoji": "👻",
-        "message": "Boo!"
-      }
-    },
-    "12": {
-      "2": {
-        "emoji": "🕎",
-        "message": "Chag Sameach!"
-      },
-      "25": {
-        "emoji": "🎅",
-        "message": "Ho, ho, ho!"
+        "message": "Feliz Ano Novo!"
       }
     },
     "2": {
       "14": {
         "emoji": "💘",
-        "message": "Happy Valentine's!"
+        "message": "Feliz Dia dos Namorados!"
       }
     },
     "3": {
-      "17": {
-        "emoji": "🍀",
-        "message": "Top o’ the mornin’"
+      "5": {
+        "emoji": "👨",
+        "message": "Obrigado, Pai!"
       }
     },
     "4": {
-      "1": {
-        "emoji": "🤡",
-        "message": "Inbox ∞"
+      "25": {
+        "emoji": "🇵🇹",
+        "message": "Dia da Liberdade"
       }
     },
-    "7": {
-      "4": {
-        "emoji": "🇺🇸",
-        "message": "Stars & Stripes"
+    "5": {
+      "1": {
+        "emoji": "🔨",
+        "message": "Dia do Trabalhador"
+      },
+      "5": {
+        "emoji": "👩",
+        "message": "Obrigado, Mãe!"
+      }
+    },
+    "6": {
+      "1": {
+        "emoji": "👶",
+        "message": "Feliz Dia Mundial da Criança!"
+      },
+      "10": {
+        "emoji": "🇵🇹",
+        "message": "Dia de Portugal"
+      },
+      "13": {
+        "emoji": "🎉",
+        "message": "Feliz Santo António!"
+      },
+      "24": {
+        "emoji": "🎈",
+        "message": "Feliz São João"
+      },
+      "29": {
+        "emoji": "🎉",
+        "message": "Feliz São Pedro"
+      }
+    },
+    "8": {
+      "15": {
+        "emoji": "⛪️",
+        "message": "Assunção da Nossa Senhora"
+      }
+    },
+    "10": {
+      "05": {
+        "emoji": "🇵🇹",
+        "message": "Implantação da República"
+      }
+    },
+    "11": {
+      "01": {
+        "emoji": "⛪️",
+        "message": "Dia de Todos os Santos"
+      }
+    },
+    "12": {
+      "01": {
+        "emoji": "🇵🇹",
+        "message": "Restauração da Independência"
+      },
+      "08": {
+        "emoji": "⛪️",
+        "message": "Imaculada Conceição"
+      },
+      "25": {
+        "emoji": "🎄",
+        "message": "Feliz Natal!"
       }
     }
   }
